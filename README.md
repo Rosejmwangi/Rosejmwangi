@@ -11,6 +11,7 @@
 - [Alx Career Essentials Certification](https://drive.google.com/file/d/189qun__ESemIkimBfHr2fwFnParksc4z/view?usp=drive_link)
 - [BSc Computer Science](https://drive.google.com/file/d/1KXoClVvTPUsfZ7dLiy2D3V8SmFiUCWOY/view?usp=drive_linkk)
 - [CPA certification](https://drive.google.com/file/d/1b7fnaR8rgnlvTqASOkIxZq6mGm1WJ1XH/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/1KuIhkfsMMwbp4tdE5V5RSUb6aGvLUYJF/view?usp=drive_link)
 
 
 <h2> 🤳 Connect with me:</h2>
