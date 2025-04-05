@@ -8,7 +8,7 @@
 
 <h2>📺 Certifications</h2>
 
-- [Alx Career Essentials Certification]()
+- [Alx Career Essentials Certification](https://drive.google.com/file/d/189qun__ESemIkimBfHr2fwFnParksc4z/view?usp=drive_link)
 - [BSc Computer Science](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [CPA certification](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
