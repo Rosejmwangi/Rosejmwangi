@@ -4,7 +4,7 @@
 
 
   - [Work Nexus Project- A website connecting youths to freelance jobs](https://drive.google.com/drive/folders/1OT_5awO_YtRlI9ztXblZCvclbqQFmiJ8?usp=drive_link)
-  - [Active directory home lab]
+    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📺 Certifications</h2>
